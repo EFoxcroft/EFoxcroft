@@ -2,7 +2,7 @@ Hello, I'm Ewan.
 <br>
 <br>I'm a semi-selftaught C++ programmer with an interest in game design.
 <br>
-<br>My background is in linguistics: MA Linguistic Studies with Distinction (German / Italian), University of Glasgow 2021.
+<br>I have a strong background in linguistics, including a bachelors degree: MA Linguistic Studies with Distinction (German / Italian), University of Glasgow 2021.
 <br>This includes a course on low-level computing using an emulated assembly language: Computing Science - 1S Systems 2021 (5 ECTS credits).
 <br>
 <br>I have found that the best way to learn programming is to work with a problem slightly above my skill level.
