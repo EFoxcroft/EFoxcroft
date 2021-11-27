@@ -17,4 +17,4 @@ Hallo, I'm Ewan.
 <br>- learning PHP and SQL
 <br>
 <br>You may have seen me around at:
-<br>-<a href="https://www.skillshare.com/profile/Ewan-Foxcroft/329023033" target="_blank">Skillshare</a>
+<br><a href="https://www.skillshare.com/profile/Ewan-Foxcroft/329023033" target="_blank">Skillshare</a>
