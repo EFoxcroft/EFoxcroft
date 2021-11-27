@@ -4,7 +4,7 @@ Hello, I'm Ewan.
 <br>
 <br>I have a strong background in linguistics, including a bachelors degree:
 <br>MA Linguistic Studies with Distinction (German / Italian), University of Glasgow 2021.
-<br>This included a first-year course on low-level computing using an emulated assembly language.
+<br>This included a first-year course on low-level programming using an emulated assembly language.
 <br>
 <br>I have found that the best way to learn programming is to work with a problem slightly above my skill level.
 <br>To that end, my current code projects are:
