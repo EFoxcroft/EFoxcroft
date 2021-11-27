@@ -1,4 +1,4 @@
-Hallo, I'm Ewan.
+Hello, I'm Ewan.
 <br>
 <br>I'm a semi-selftaught C++ programmer with an interest in game design.
 <br>
