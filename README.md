@@ -12,7 +12,6 @@ Hallo, I'm Ewan.
 <br>C++ & Python → A hybrid application to take user input in C++ and produce a csv file, to be processed with numpy and pandas in Python
 <br>C++ ^ Python → A simplified demographics tool to compare the size and population of a given country with its urban population
 <br>....
-<br>These will be published here on GitHub as they are completed.
 <br>
 <br>My learning goals for the next year include polishing my C++ skills and practicing with the numpy and pandas packages for Python.
 <br>Future / job dependent goals:
