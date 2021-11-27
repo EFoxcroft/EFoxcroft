@@ -6,7 +6,7 @@ Hallo, I'm Ewan.
 <br>
 <br>Current code projects:
 <br>C++ → A console application to calculate the notes of a musical scale
-<br>C++ → A low-level version of the above with goto instead of conventional loops
+<br>C++ → A low-level version of the above
 <br>C++ & Python → A hybrid application to take user input in C++ and produce a csv file, to be processed with numpy and pandas in Python
 <br>C++ ^ Python → A simplified demographics tool to compare the size and population of a given country with its urban population
 <br>
